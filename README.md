@@ -1,5 +1,7 @@
 # jest_test
 
-# Run tests
+Run tests
 
+```sh
 $ make test
+```
